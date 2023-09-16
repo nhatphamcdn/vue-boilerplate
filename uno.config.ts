@@ -16,7 +16,7 @@ export default defineConfig({
       border: '#eee',
       foreground: 'rgba(0, 0, 0, .87)',
     },
-    breakpoints: {
+    screens: {
       sm: '640px',
       md: '768px',
       lg: '1024px',
